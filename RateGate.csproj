@@ -7,9 +7,10 @@
     <PackageProjectUrl>https://github.com/clayv/RateGate</PackageProjectUrl>
     <RepositoryUrl>https://github.com/clayv/RateGate</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Description>This is Jack Leitch's RateGate code with a couple improvements specifically around thread saftety and long interval times (e.g. &gt; 24.9 days).</Description>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
