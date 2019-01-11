@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateGate", "RateGate.csproj", "{31BB42FB-9DA5-428F-8544-9BF6A99B7CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BB42FB-9DA5-428F-8544-9BF6A99B7CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BB42FB-9DA5-428F-8544-9BF6A99B7CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BB42FB-9DA5-428F-8544-9BF6A99B7CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BB42FB-9DA5-428F-8544-9BF6A99B7CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4ECF4B-B6FE-4527-9397-BFF74BB616F5}
+	EndGlobalSection
+EndGlobal
