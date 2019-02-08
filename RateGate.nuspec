@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>CVV.RateGate</id>
+    <version>1.0.1</version>
+    <title>CVV.RateGate</title>
+    <authors>Clay Ver Valen</authors>
+    <owners>Clay Ver Valen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/clayv/RateGate</projectUrl>
+    <description>This is Jack Leitch's RateGate code with a couple improvements specifically around thread saftety and long interval times (e.g. &gt; 24.9 days).</description>
+    <releaseNotes>Initial stable release</releaseNotes>
+    <copyright>Copyright © Clay Ver Valen 2019</copyright>
+    <license type="expression">MIT</license>
+    <repository type="git" url="https://github.com/clayv/RateGate" />
+    <tags>rate limit</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard1.2">
+        <dependency id="CVV.Disposable" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
