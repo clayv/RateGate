@@ -1,5 +1,5 @@
 # RateGate
-### This is Jack Leitch's RateGate code with a couple improvements specifically around thread saftety and _long_ interval times (e.g. > 24.9 days)
+### This is Jack Leitch's RateGate code with a couple improvements specifically around thread safety and _long_ interval times (e.g. > 24.9 days)
 
 First, this is is essentially Jack Leitch's (http://www.jackleitch.net) RateGate code (see http://www.jackleitch.net/2010/10/better-rate-limiting-with-dot-net)
 
